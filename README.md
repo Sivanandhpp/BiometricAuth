@@ -1,4 +1,4 @@
-# flutterlocalauth
+# BiometricAuth
 
 A new Flutter project.
 
